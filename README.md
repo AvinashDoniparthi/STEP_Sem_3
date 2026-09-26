@@ -1,3 +1,3 @@
-# STEP Semester 3
+# Week 4
 
-Fresh repo reset for session-based Java assignments.
+Java assignment for session 4.
